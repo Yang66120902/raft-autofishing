@@ -1,2 +1,2 @@
 # raft-autofishing
-radt auto fishing
+raft auto fishing
